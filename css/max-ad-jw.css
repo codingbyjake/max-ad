@@ -1,0 +1,45 @@
+body{
+    font: normal normal normal 20pt/24pt Cursive, Arial, sans-serif 
+}
+table{
+    width: 100%;
+}
+h3{
+    color:#26AD55
+}
+.DRed{
+    color:#AD0903
+}
+.MRed{
+    color:#FA6E69
+}
+.LRed{
+    color:#FF8985
+}
+.DGreen{
+    color:#26AD55
+}
+.LGreen{
+    color:#69FA9B
+}
+.BigBold{
+    font-weight: 700;
+    font-size:1.5em;
+}
+.LRedBackground{
+    background-color: #FF8985;
+    border-color: #FF8985;
+}
+.DGreenBackground{
+    background-color: #26AD55;
+    border-color: #26AD55;
+}
+.AlignCenter{
+    text-align: center;
+    border:14pt;
+    margin: 14pt;
+}
+.BigTopBottomPadding{
+    padding-top : 20pt;
+    padding-bottom : 20pt;
+}
